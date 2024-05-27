@@ -60,9 +60,6 @@ streamlit run main.py
 ### Contact
 For any issues or questions, please contact the project maintainers.
 
-### License
-This project is licensed under the GNU License. See the LICENSE file for more details.
-
 ---
 
 This README file provides detailed instructions on setting up and running the application. If you follow the steps outlined above, you should be able to successfully use the crop recommendation and weather prediction features of the app.
